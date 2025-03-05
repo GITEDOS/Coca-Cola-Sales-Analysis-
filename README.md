@@ -52,9 +52,30 @@ This project analyzes a synthetic dataset to uncover key trends in Coca-Cola's s
 
 ## Tools Used
 
-- **Data Analysis:** Python (Pandas, NumPy)
-- **Visualization:** Matplotlib, Seaborn, Tableau (optional)
-- **Data Storage & Processing:** SQL, Excel
+- **Data Analysis:** Excel
+- **Visualization:** Powerbi
+- **Data Storage & Processing:** Excel
+
+- ## **Visuals**  
+![2025-03-05 (5)](https://github.com/user-attachments/assets/95a7614f-2058-479a-bf71-e3520e44da95)
+
+---
+
+## **How to Use This Project**  
+1. **Download the dataset**: [coca_cola_sales (1).xlsx](#)  
+2. **Open in Excel** and explore:  
+   - Pivot Tables  
+   - Charts & Graphs  
+   - Key Sales Trends  
+3. **Analyze insights** and make data-driven decisions.
+4. **Download the dataset**:[Coca-Cola Sales Analysis.pbix](#)
+5. **Open in Power bi** and explore: 
+   - Charts & Graphs  
+   - Key Sales Trends
+6. **Download the dataset**:[Coca-Cola case study.docx](#)
+7. **Open in Word** and explore:
+   - Case Study
+   - Recommendation 
 
 ## Conclusion
 
